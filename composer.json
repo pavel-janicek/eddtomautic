@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mautic/api-library": "^2.16",
+        "yahnis-elsts/plugin-update-checker": "^4.9"
+    }
+}
